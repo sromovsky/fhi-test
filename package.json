@@ -1,0 +1,6 @@
+{
+  "name": "fhi-test",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
